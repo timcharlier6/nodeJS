@@ -1,0 +1,3 @@
+20240208	12:22:11	d66e5493-07a9-459a-8485-130edfb29734	Error: Not allowed by CORS
+20240212	11:07:46	68278cc2-68fe-410a-be98-e6c063b3411c	SyntaxError: Expected property name or '}' in JSON at position 2
+20240212	11:08:05	31736584-c116-4fe6-b438-817e7cd6a4d9	SyntaxError: Expected property name or '}' in JSON at position 2
